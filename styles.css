@@ -1,5 +1,5 @@
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+  box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.6);
   max-width: 1000px;
   margin: auto;
   text-align: center;
@@ -28,7 +28,7 @@ button {
 a {
   text-decoration: none;
   font-size: 22px;
-  color: black;
+  color: #000066;
 }
 
 button:hover, a:hover {
