@@ -21,8 +21,9 @@ button {
   background-color: #000066;
   text-align: center;
   cursor: pointer;
-  width: 100%;
+  width: 40%;
   font-size: 18px;
+  border-radius:12px;
 }
 
 a {
