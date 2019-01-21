@@ -43,4 +43,6 @@ button:hover, a:hover {
 .parent > ul {
   display: inline-block;
 }
-
+h1 {
+  text-shadow: 2px 2px #ff0000;
+}
