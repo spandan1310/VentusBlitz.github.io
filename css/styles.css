@@ -37,7 +37,8 @@ button:hover, a:hover {
 	border-radius:12px;
 }
 ul {
-	list-style-type: square;
-	font-size: 18px;
+ list-style-type: square;
+ list-style-position: outside;
+ list-style-image: none;
 }
 
