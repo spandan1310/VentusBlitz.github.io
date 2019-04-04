@@ -1,0 +1,11 @@
+insert into branch_admin values(
+'123','alu','potol',25,'male','1-1-1111','123456','000000','abc@xyz','b1','qwerty','uiop','kol','wb','00000');
+
+insert into medicine values(
+001,'Parasafe',05,'fever','ITC',550,'C');
+
+insert into branch_admin_request values(
+'1001','123','05-11-2018','urgent','12-12-2018','A','request will be processed');
+
+insert into medicine_request values(
+001,'1001',100);
